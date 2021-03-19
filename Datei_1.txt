@@ -1,2 +1,2 @@
 Test-Inhalt der Datei
-Version 2.0
+Version 2.0 Variante b
