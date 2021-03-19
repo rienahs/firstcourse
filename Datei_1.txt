@@ -1,2 +1,2 @@
 Test-Inhalt der Datei
-Version 1.0
+Version 1.1
