@@ -1,0 +1,2 @@
+Test-Inhalt der Datei
+Version 1.0
